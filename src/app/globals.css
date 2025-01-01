@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.banner-title {
+  color: #ffd700 !important;
+  text-align: left !important;
+  margin-bottom: 0 !important;
+  -webkit-text-fill-color: #ffd700 !important;
+  background: none !important;
+  background-clip: unset !important;
+  -webkit-background-clip: unset !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3) !important;
+}
